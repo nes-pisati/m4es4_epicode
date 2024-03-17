@@ -1,0 +1,81 @@
+nav {
+    background-color: rgba(216, 216, 216, 0.451);
+}
+
+.search-input {
+    border: 1px solid rgb(159, 159, 159);
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+/*.logo {
+    height: 40px;
+    text-align: center;
+}
+
+.logo img{
+    height: 100px;
+    width: auto;
+}*/
+
+.cart-button {
+    width: 30px;
+    height: 30px;
+    background-color: gray;
+    border-radius: 50%;
+    border: none;
+}
+
+.clicked {
+    background-color: rgba(128, 128, 128, 0.452);
+}
+
+.fa-cart-shopping {
+    color: white;
+    font-size: 0.8em;
+}
+
+.add-button {
+    border: none;
+    border-radius: 7px;
+    width: 80%;
+    align-self: center;
+}
+
+.add-button:hover {
+    background-color: rgb(86, 132, 86);
+    color: white;
+}
+
+.skip-button {
+    border: none;
+    border-radius: 7px;
+    width: 50%;
+    align-self: center;
+    font-size: 0.7em;
+}
+
+dialog {
+    border: none;
+    border-radius: 10px;
+}
+
+dialog button {
+    border: none;
+    border-radius: 7px;
+    font-size: 0.9em;
+    color: grey;
+}
+
+dialog button:hover {
+    background-color: gray;
+    color: white;
+}
+
+.dialogBody {
+    max-width: 500px
+}
+
+.modalBookPrice {
+    color: rgb(86, 132, 86);
+}
